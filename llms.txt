@@ -1,0 +1,23 @@
+# VYRA
+
+> VYRA is the mascot of VYRE: a gecko in a black ninja outfit with neon-lime wraps, holding a glowing green 3D V. This is a one-page site about the mascot.
+
+## Facts
+
+- VYRE is a blockchain where gas is USDC. VYRE mainnet is live.
+- Network name: VYRE. Chain ID: 3045. Gas token: USDC.
+- RPC: https://rpc.vyrechain.com
+- Explorer: https://explorer.vyrechain.com
+- Add the network: https://vyrechain.com/add/
+- Get USDC on VYRE: https://vyrechain.com/docs/get-usdc/ (a withdrawal back to Arc takes about a day)
+- MINTA, the launchpad app on VYRE: https://minta.vyrechain.com
+- VYRE docs: https://vyrechain.com/docs/
+- X: https://x.com/vyrechain
+
+## The VYRA token
+
+A VYRA token is planned to launch on MINTA. No contract exists until it is launched. This page shows the address only after launch, read from token.json; do not trust any address that this page does not show. VYRA is a community mascot token with no promised use, price or return. Tokens can fall to zero. Nothing here is financial advice.
+
+## Disclaimer
+
+VYRE is an independent project, not affiliated with or endorsed by Circle.
